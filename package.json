@@ -1,0 +1,22 @@
+{
+  "author": "colohr",
+  "bugs": {
+    "url": "https://github.com/colohr/mongo/issues"
+  },
+  "dependencies": {
+    "@va11y/stream": "^0.0.3"
+  },
+  "description": "MongoDB Module",
+  "homepage": "https://github.com/colohr/mongo#readme",
+  "license": "ISC",
+  "main": "./package/index.js",
+  "name": "@va11y/mongo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/mongo.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "0.0.3"
+}
