@@ -4,7 +4,9 @@
     "url": "https://github.com/colohr/mongo/issues"
   },
   "dependencies": {
-    "@va11y/stream": "^0.0.3"
+    "fxy": "^0.1.724",
+    "@va11y/stream": "^0.0.3",
+    "mongodb": "^3.1.0-beta4"
   },
   "description": "MongoDB Module",
   "homepage": "https://github.com/colohr/mongo#readme",
@@ -18,5 +20,5 @@
   "scripts": {
     "test": "node test"
   },
-  "version": "0.0.3"
+  "version": "0.0.4"
 }

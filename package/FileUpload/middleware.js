@@ -1,4 +1,4 @@
-const stream = require('data.stream')
+const stream = require('@va11y/stream')
 const fxy = require('fxy')
 
 //exports
